@@ -1,4 +1,5 @@
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 24, 2025, 05_37_21 PM" src="https://github.com/user-attachments/assets/b1442ee9-b39a-4f67-b40a-5810b6263d6e" />
 
 ### Make sure to create a `.env` file with following variables -
 
